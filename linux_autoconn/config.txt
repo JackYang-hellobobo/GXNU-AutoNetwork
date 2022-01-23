@@ -1,0 +1,6 @@
+username=
+password=
+type=
+host=http://192.168.125.13/
+loginpage=http://192.168.125.13/a70.htm
+logoutpage=http://192.168.125.13/F.htm
