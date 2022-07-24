@@ -1,5 +1,5 @@
 # GXNUDiagSystem
-基于Python的广西师范大学辅助拨号系统\
+基于Python的广西师范大学辅助拨号系统
 
 
 
